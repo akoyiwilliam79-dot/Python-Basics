@@ -18,7 +18,7 @@ print(x != y)#not equal to
 a = 56
 print(a)
 
-#operator precedence - order in which operations get executed
+#operator precedence - order in which operations get executed / BODMAS in Programming
 a += 2
 print(a)
 
@@ -28,7 +28,6 @@ print(100 < 200 or 100 == 200)
 print(not(100 < 200 or 100 == 200))
 
 #Bitwise operators
-
 
 
 

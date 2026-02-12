@@ -3,7 +3,7 @@ from variables import firstname, language
 age = 19 #age is an Integer
 temperature = 36.75 #float
 greeting = "Hello" #string
-ismarried = True #boolian
+ismarried = True #boolean
 
 print(greeting)
 print("Are you",age,"years old?")
@@ -22,7 +22,7 @@ student ={
     "Age" : 19,
     "Course" : "MIT",
     "Gender" : "Male",
-}#dictionary -
+}#dictionary - also carries different datatypes
 
 print(cars)
 print(fruits)
